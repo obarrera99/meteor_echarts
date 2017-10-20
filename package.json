@@ -1,0 +1,13 @@
+{
+  "name": "graficas",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.20.0",
+    "echarts": "^3.7.2",
+    "echarts-gl": "^1.0.0-beta.5",
+    "meteor-node-stubs": "~0.2.4"
+  }
+}
